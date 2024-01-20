@@ -1,7 +1,7 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=mezoinnit&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="side Image" align="right" width="350" height="auto" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="side Image" align="right" width="300" height="auto" />
   
   - 🌱 I’m living in Egypt
   - 🔭 I’m currently skilled Android Developer
