@@ -5,7 +5,7 @@
   
   - 🌱 I’m living in Egypt
   - 🔭 I’m currently skilled Android Developer
-  - 💬 Ask me about anything related to android indusry
+  - 💬 Ask me about anything related to android industry
   
   #### 📫 How to reach me:
   
