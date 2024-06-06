@@ -10,7 +10,7 @@
   #### 📫 How to reach me:
   
   <a href="https://www.linkedin.com/in/moataaz-mansour" target="_blank"><img src="https://img.shields.io/badge/-Moataz%20Mansour-6e94eb?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://x.com/mezoinnit" target="_blank"><img src="https://img.shields.io/badge/-Mezoinnit-6e94eb?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://x.com/mezoinnit" target="_blank"><img src="https://img.shields.io/badge/-Mezoinnit-6e94eb?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="https://www.instagram.com/moataz.kt?igsh=YzAwZjE1ZTI0Zg==" target="_blank"><img src="https://img.shields.io/badge/-Moataz.kt-e86868?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
   #### 👨🏻‍💻 Languages and Tools <br />
