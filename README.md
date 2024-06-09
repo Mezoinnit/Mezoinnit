@@ -50,7 +50,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Ubuntu 24.04</li>
 	    <li><b>Laptop: </b> Vostro G15</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> Android Studio - The best editor out there</li>
