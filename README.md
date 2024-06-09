@@ -52,7 +52,7 @@
   	<ul>
   	    <li><b>OS:</b> Ubuntu 24.04</li>
 	    <li><b>Laptop: </b> Vostro G15</li>
-  	    <li><b>Browser: </b> Chrome</li>
+  	    <li><b>Browser: </b> FireFox</li>
 	    <li><b>Code Editor:</b> Android Studio - The best editor out there</li>
  	    <li><b>Other Tools:</b> Obsidian, philip lecknar</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
