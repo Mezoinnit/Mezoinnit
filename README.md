@@ -1,56 +1,48 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2e3440&height=150&section=header&text=Moataz%20Mansour&fontSize=50&fontColor=eceff4&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2e3440&height=180&section=header&text=Moataz%20Mansour&fontSize=50&fontColor=eceff4&animation=fadeIn" width="100%" />
 
-  ### 📱 Senior Android Engineer | Kotlin Specialist
-  *Crafting fluid, high-performance mobile experiences with a focus on clean architecture.*
+  ### 🌿 Architecting Fluid Android Experiences
+  *Android Engineer • Kotlin Multiplatform Enthusiast • Open Source Contributor*
   
-  [**LinkedIn**](https://www.linkedin.com/in/moataaz-mansour) • [**X (Twitter)**](https://x.com/mezoinnit) • [**Instagram**](https://www.instagram.com/moataz.kt)
+  [**Portfolio**](https://your-site.com) • [**LinkedIn**](https://www.linkedin.com/in/moataaz-mansour) • [**Technical Blog**](https://medium.com)
 </div>
 
 ---
 
-### 💡 Professional Snapshot
-Experienced Android Developer based in **Egypt**, specializing in the modern Kotlin ecosystem. I bridge the gap between complex backend logic and intuitive UI/UX.
+### 📖 The Engineering Philosophy
+I view mobile development as the intersection of high-performance systems and human-centric design. With 8+ years in the ecosystem, I prioritize **Unidirectional Data Flow (MVI)**, **Type-safe Networking**, and **Modularization** that scales with team size.
 
-- 🚀 **Core Focus:** Jetpack Compose, Kotlin Multiplatform (KMP), and MVI/MVVM Architecture.
-- 🛠️ **System Level:** Performance optimization and NDK integration via C++.
-- 🧠 **Philosophy:** Writing code for humans first, machines second.
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Kotlin (Expert), Coroutines, Flow, C++ (NDK), SQL |
-| **UI Frameworks** | Jetpack Compose (Advanced), XML/View System, Material 3 |
-| **Architecture** | Clean Architecture, MVI, Hilt/Dagger, Koin |
-| **Jetpack** | Room, Navigation, WorkManager, DataStore, Paging3 |
-| **Networking** | Retrofit, Ktor, OkHttp, Protocol Buffers |
+- 🪵 **Deep Work:** Currently perfecting NDK-based image processing and KMP shared logic.
+- 🤝 **Mentorship:** Passionate about code reviews that teach "the why" over "the what."
+- ☕ **Environment:** Powered by Ubuntu, Obsidian, and a strictly dark-themed IDE.
 
 ---
 
-### ⚙️ The Workbench
-<details>
-<summary><b>View System & Productivity Setup</b></summary>
-<br />
+### 🏗️ Architectural Stack & Specializations
 
-- **OS:** Ubuntu 24.04 LTS (Primary)
-- **IDE:** Android Studio (Ladybug/Latest Canary)
-- **Terminal:** Zsh + Oh My Zsh (Powerlevel10k)
-- **Notes:** Obsidian (Zettelkasten Method)
-- **Hardware:** Dell Vostro G15 | Mechanical Keyboard
-</details>
+> **"Simplicity is the consequence of refined complexity."**
+
+#### 🟢 High-Level Frameworks
+* **Compose & UI:** Custom Modifiers, SubcomposeLayout, and Design System implementation.
+* **Architecture:** Multi-module Gradle setups, Dependency Injection (Dagger/Hilt/Koin), and Clean Architecture.
+* **Lifecycle:** Advanced WorkManager scheduling and Foreground Service optimization.
+
+#### 🔵 Low-Level & Performance
+* **NDK/C++:** JNI Bridge optimization and memory-safe native integrations.
+* **Profiling:** Benchmarking Macrobenchmark/Baseline Profiles for 60fps+ UI consistency.
+* **Data:** Protocol Buffers for high-efficiency serialization over standard JSON.
 
 ---
 
-### 📂 Recent Contributions & Labs
-- 🏛️ **Advanced-MVI-Template:** A production-ready boilerplate for scalable Android apps.
-- 🎨 **Compose-Art:** Experimental UI components using Canvas and custom Shaders.
+### 🧪 Current Lab Work (Featured Repos)
+
+* **[Advanced-MVI-Template](https://link):** Implementing the "State-Action-Effect" pattern with strict state-containment.
+* **[Compose-Art](https://link):** Exploring the boundaries of `DrawScope` and custom GLSL Shaders in Compose.
+
+---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezoinnit&layout=compact&theme=nord&hide_border=true" />
   <br />
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%" />
-  <br />
-  <sub>"The best way to predict the future is to implement it."</sub>
+  <sub>"Building for humans, optimized for the machine."</sub>
 </div>
