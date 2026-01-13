@@ -30,14 +30,6 @@ Experienced Android Developer based in **Egypt**, specializing in the modern Kot
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mezoinnit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=ebcb8b&text_color=d8dee9" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezoinnit&theme=tokyonight&hide_border=true&background=2e3440&ring=88c0d0&fire=bf616a&currStreakLabel=88c0d0" height="170" />
-</p>
-
----
-
 ### ⚙️ The Workbench
 <details>
 <summary><b>View System & Productivity Setup</b></summary>
