@@ -1,34 +1,46 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=120&section=header&text=MOATAZ%20MANSOUR&fontSize=40&fontColor=a9b1d6" width="100%" />
 
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=2c2421&height=120&section=header&text=m.%20mansour&fontSize=50&fontColor=d4be98&animation=fadeIn" width="400" />
-
-<br/>
-
-### *The craft of quiet, resilient engineering.*
-
-[LinkedIn](https://www.linkedin.com/in/moataaz-mansour) &nbsp; // &nbsp; [X](https://x.com/mezoinnit) &nbsp; // &nbsp; [Instagram](https://www.instagram.com/moataz.kt)
-
-<br/>
+  ### MOBILE SYSTEMS ENGINEER
+  Kotlin Specialist • Android Infrastructure
+  
+  [LinkedIn](https://www.linkedin.com/in/moataaz-mansour) | [X](https://x.com/mezoinnit) | [Instagram](https://www.instagram.com/moataz.kt/)
+</div>
 
 ---
 
-**Philosophy** *Designing systems that breathe. My work focuses on the space where high-performance logic meets the subtle nuances of human interaction—prioritizing architecture that endures.*
-
-**Atmosphere** *Ubuntu 24.04 · G15 Workstation · Obsidian Notes*
+### PROFESSIONAL SUMMARY
+Senior Engineer with over two decades of experience in the mobile ecosystem. Expert in the Kotlin lifecycle, specializing in the engineering of scalable, high-concurrency Android applications. My approach prioritizes system stability, structured concurrency, and modular architecture designed for multi-year maintenance cycles.
 
 ---
 
-<br/>
-<br/>
-<br/>
+### TECHNICAL CORE
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="15%" style="filter: sepia(100%) hue-rotate(10deg) brightness(0.7); opacity: 0.3;" />
+| CATEGORY | SPECIALIZATION |
+| :--- | :--- |
+| **Languages** | Kotlin (Expert), C++ (NDK), SQL, Rust (KMP Integration) |
+| **Frameworks** | Jetpack Compose, Kotlin Multiplatform, Coroutines, Flow |
+| **Architecture** | MVI, Multi-module Gradle, Dependency Injection (Hilt/Dagger) |
+| **Performance** | Macrobenchmarking, Baseline Profiling, Memory Management |
+| **Networking** | Ktor, Retrofit, Protocol Buffers, WebSocket |
 
-<br/>
+---
 
-<sub>*2026 — Steady & Deliberate*</sub>
+### CURRENT INITIATIVES
+* **Infrastructure:** Development of production-grade MVI templates for enterprise-scale modularity.
+* **Graphics:** Implementation of custom shaders and low-level Canvas API optimizations for Jetpack Compose.
+* **Tooling:** Optimizing build-speed and developer velocity within Ubuntu-based CI/CD pipelines.
 
+---
+
+### ENVIRONMENT & TOOLING
+* **OS:** Ubuntu 24.04 LTS
+* **IDE:** Android Studio
+* **Knowledge Management:** Obsidian
+* **Shell:** Zsh / Powerlevel10k
+
+---
+
+<div align="center">
+  <sub>"Engineering is the art of making trade-offs visible."</sub>
 </div>
