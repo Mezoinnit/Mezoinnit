@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=120&section=header&text=MOATAZ%20MANSOUR&fontSize=40&fontColor=a9b1d6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=120&section=header&text=MOATAZ%20MANSOUR&fontSize=32&fontColor=a9b1d6" width="100%" />
 
   ### MOBILE SYSTEMS ENGINEER
   Kotlin Specialist • Android Infrastructure
