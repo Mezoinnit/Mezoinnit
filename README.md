@@ -1,30 +1,34 @@
 <div align="center">
-<br/>
+
 <br/>
 <br/>
 
-# Moataz Mansour
-<sub>*Refining the intersection of logic and experience.*</sub>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2c2421&height=120&section=header&text=m.%20mansour&fontSize=50&fontColor=d4be98&animation=fadeIn" width="400" />
 
 <br/>
 
-[LinkedIn](https://www.linkedin.com/in/moataaz-mansour) &nbsp;·&nbsp; [X](https://x.com/mezoinnit) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/moataz.kt)
+### *The craft of quiet, resilient engineering.*
+
+[LinkedIn](https://www.linkedin.com/in/moataaz-mansour) &nbsp; // &nbsp; [X](https://x.com/mezoinnit) &nbsp; // &nbsp; [Instagram](https://www.instagram.com/moataz.kt)
 
 <br/>
 
 ---
 
-**Intent**
-Building resilient, fluid architectures with a focus on systemic simplicity and longevity.
+**Philosophy** *Designing systems that breathe. My work focuses on the space where high-performance logic meets the subtle nuances of human interaction—prioritizing architecture that endures.*
 
-**Environment**
-Ubuntu 24.04
+**Atmosphere** *Ubuntu 24.04 · G15 Workstation · Obsidian Notes*
 
 ---
 
 <br/>
 <br/>
+<br/>
 
-<sub>*2026 / Quiet Excellence*</sub>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="15%" style="filter: sepia(100%) hue-rotate(10deg) brightness(0.7); opacity: 0.3;" />
+
+<br/>
+
+<sub>*2026 — Steady & Deliberate*</sub>
 
 </div>
